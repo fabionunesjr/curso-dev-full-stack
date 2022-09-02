@@ -1,0 +1,10 @@
+
+body{
+    background:burlywood;
+    background-image: url(backgroud.jpg);
+     background-attachment: fixed;
+}
+
+.foto{
+    width: 400px ;
+}

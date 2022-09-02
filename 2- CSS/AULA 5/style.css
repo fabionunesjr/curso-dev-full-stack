@@ -1,0 +1,16 @@
+
+body{
+    background:burlywood;
+ 
+     background-attachment: fixed;
+}
+
+.fotoprincipal{
+   border-width:  5px ;
+   border-style: solid ;
+   border-color: rgb(255, 255, 255);
+   width: 250px;
+   border-radius: 50%;
+}
+
+
